@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lockmaan
-- 👀 I’m interested in python,C# and html&css
-- 🌱 I’m currently learning python
+- 👀 I’m interested in software and front end job titles
+- 🌱 i am a python and front end developer
 - 💞️ I’m looking to collaborate on website projects and operations research/ optimisation work
 - 📫 How to reach me lokmamen@gmail.com
 
